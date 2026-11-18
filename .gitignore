@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+.env
+.DS_Store
+*.log
+FEATURE_ITERATION.md
+.playwright-mcp/
+.claude/
+./github\workflows/
+DEVELOPMENT_PLAN.md
+TEST_PLAN.md
